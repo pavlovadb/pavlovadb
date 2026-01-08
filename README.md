@@ -1,4 +1,4 @@
-## Hey I'm Daniela 👩‍💻👋, 🧗‍♀️⛷️🚵
+## Hey I'm Daniela 👩‍💻👋
 
 I’m a full-stack developer based in Reno, Nevada, with several years of experience in the Ruby and JavaScript ecosystems. 
 
@@ -6,7 +6,7 @@ Recently, I co-created **🐿️ [Burrow](https://burrow-io.github.io/)**, an op
 
 I work extensively with AWS and Docker and have hands-on experience building systems in the AI space.
 
-When I'm away from the computer, I am outside climbing and also enjoy skiing, mountain biking and just being in the mountains.
+When I'm away from the computer, I am outside climbing and also enjoy skiing, mountain biking and just being in the mountains. 🧗‍♀️⛷️🚵
 
 | Category | Technologies |
 |---------|--------------|
