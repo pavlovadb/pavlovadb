@@ -1,6 +1,6 @@
 ## Hey I'm Daniela 👩‍💻👋
 
-I’m a full-stack developer based in Reno, Nevada, with several years of experience in the Ruby and JavaScript ecosystems. 
+I’m a full-stack engineer based in Reno, Nevada, with several years of experience in the Ruby and JavaScript ecosystems. 
 
 Recently, I co-created **🐿️ [Burrow](https://burrow-io.github.io/)**, an open-source data ingestion pipeline that streamlines RAG application development. 
 
